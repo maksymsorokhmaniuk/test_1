@@ -1,5 +1,3 @@
 # Maksym 
-wefdewfwefw
-efwfewefffffffffffff
-fffffffffffffffffffffffffffffffffffff
-ffffffffffffffffffffffffffffffffffffffffffffff
+Добрий вечір господа
+specify commit message
